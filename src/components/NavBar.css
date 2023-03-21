@@ -1,0 +1,18 @@
+
+.NavClass{
+    background: #000;
+    padding: 1%;
+    
+}
+
+.NavBarUl{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
